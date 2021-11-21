@@ -4,7 +4,7 @@
 
 ### SWE -> MLOps <- MLE
 
-#### Hi there 👋, I'm also here:
+#### Hi there 👋, I'm here as well:
 
 - https://www.linkedin.com/in/luine-ito-madeira-de-ley
 
