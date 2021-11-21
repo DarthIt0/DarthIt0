@@ -2,11 +2,17 @@
 
 ## MLOps Infrastructure Engineer  
 
-###
+### SWE -> MLOps <- MLE
 
-### Hi there 👋
+#### Hi there 👋, I'm also here:
 
-### Whispering...
+- https://www.linkedin.com/in/luine-ito-madeira-de-ley
+
+- https://www.credly.com/users/luine-ito-madeira-de-ley/badges
+
+- https://bdm.unb.br/handle/10483/9372
+
+- https://darthit01.gitlab.io/gamefunf5
 
 <!--
 **DarthIt0/DarthIt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
