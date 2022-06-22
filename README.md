@@ -4,7 +4,7 @@
 
 ## MLOps Infrastructure Engineer 
 
-## Fullstack Application Engineer at RESOLA.ai
+## Application Engineer at RESOLA.ai
 
 ## EE <---> CS <---> ROBOTS <---> AI
 
