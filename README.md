@@ -1,6 +1,10 @@
 # Luine Ito Madeira de Ley
 
-## MLOps Infrastructure Engineer  
+## Software Engineer  
+
+## MLOps Infrastructure Engineer 
+
+## EE <---> CS <--> roBots  
 
 ### SWE -> MLOps <- MLE
 
@@ -15,6 +19,8 @@
 - https://darthit01.gitlab.io/gamefunf5
 
 - https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_superior.pdf
+
+- https://github.com/litoai
 
 
 <!--
