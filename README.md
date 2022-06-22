@@ -1,10 +1,12 @@
 # Luine Ito Madeira de Ley
 
-## Software Engineer  
+## Software Engineer, Machine Learning 
 
 ## MLOps Infrastructure Engineer 
 
-## EE <---> CS <--> roBots  
+## Fullstack Application Engineer at RESOLA.ai
+
+## EE <---> CS <---> ROBOTS <---> AI
 
 ### SWE -> MLOps <- MLE
 
