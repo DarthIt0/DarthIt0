@@ -4,7 +4,7 @@
 
 ## MLOps Infrastructure Engineer 
 
-## Application Engineer at RESOLA.ai
+## Application Engineer at resola ai
 
 ## EE <---> CS <---> ROBOTS <---> AI
 
@@ -15,6 +15,8 @@
 - https://www.linkedin.com/in/luine-ito-madeira-de-ley
 
 - https://www.credly.com/users/luine-ito-madeira-de-ley/badges
+
+- https://triplebyte.com/tb/luine-ito-madeira-de-ley-g99tbhm/certificate
 
 - https://bdm.unb.br/handle/10483/9372
 
