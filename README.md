@@ -4,9 +4,11 @@
 
 ## MLOps Infrastructure Engineer 
 
-## Application Engineer at resola ai
+## Application Engineer
 
 ## EE <---> CS <---> ROBOTS <---> AI
+
+![Rover](Rover.jpg)
 
 ### SWE -> MLOps <- MLE
 
