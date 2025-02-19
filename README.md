@@ -14,11 +14,13 @@
 
 #### Hi there 👋, I'm here as well:
 
+- https://wellfound.com/u/luine-ito-madeira-de-ley
+
+- https://iot.cs.illinois.edu/capstone-showcase/fall-2024
+
 - https://www.linkedin.com/in/luine-ito-madeira-de-ley
 
 - https://www.credly.com/users/luine-ito-madeira-de-ley/badges
-
-- https://triplebyte.com/tb/luine-ito-madeira-de-ley-g99tbhm/certificate
 
 - https://bdm.unb.br/handle/10483/9372
 
