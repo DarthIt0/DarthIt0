@@ -14,8 +14,6 @@
 
 #### Hi there 👋, I'm here as well:
 
-- https://wellfound.com/u/luine-ito-madeira-de-ley
-
 - https://iot.cs.illinois.edu/capstone-showcase/fall-2024
 
 - https://www.linkedin.com/in/luine-ito-madeira-de-ley
@@ -29,6 +27,8 @@
 - https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_superior.pdf
 
 - https://github.com/litoai
+
+- https://wellfound.com/u/luine-ito-madeira-de-ley
 
 
 <!--
