@@ -30,7 +30,9 @@
 
 - https://wellfound.com/u/luine-ito-madeira-de-ley
 
-### CODE Ownership, Copyright, Agreements & Licensing 🔐
+### CODE 📜 Ownership, Copyright, Agreements & Licensing 🔐
+
+### Code 📜 Ownership, Copyright, Agreements & Licensing 🔐
 
 - 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be displayed here due to non-disclosure agreements.
 - 🤝 **Third-Party**: All external code (from companies, clients or individual contributors) is properly attributed.
