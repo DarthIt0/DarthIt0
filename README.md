@@ -32,10 +32,10 @@
 
 ### Code Ownership, Copyright, Agreements, and Licensing 🔐
 
-- 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be shared here due to non-disclosure agreements.
+- 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be displayed here due to non-disclosure agreements.
 - 🤝 **Third-Party**: All external code (from companies, clients or individual contributors) is properly attributed.
-- 🌱 **Open Source**: OSS code is available as-is, typically under the GPL. Modifications or usage beyond the license terms cannot be attributed to this profile.
-- 🔗 **Other**: Contributions to private version control systems (VCS), platforms, or repositories like GitLab, Bitbucket, Subversion (SVN), and Perforce are not included in this public repository.
+- 🌱 **Open Source**: OSS code is available and shared as-is, typically under the GPL. Modifications or usage beyond the license terms cannot be attributed to this profile.
+- 🔗 **Other**: Contributions to private version control systems (VCS), platforms or repositories like GitLab, Bitbucket, Subversion (SVN) and Perforce are not included in this public repository.
 
 💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
 
