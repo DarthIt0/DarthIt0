@@ -42,6 +42,19 @@
 
 💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
 
+For-the-Badge (smaller, bold style):
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=for-the-badge)
+For-the-Badge (smaller, bold style):
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+For-the-Badge (smaller, bold style):
+![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge)
+For-the-Badge (smaller, bold style):
+![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=for-the-badge)
+For-the-Badge (smaller, bold style):
+![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=for-the-badge)
+For-the-Badge (smaller, bold style):
+![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=for-the-badge)
+
 ### License Badge (MIT - Blue)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue)
 
