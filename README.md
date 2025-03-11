@@ -30,9 +30,6 @@
 
 - https://wellfound.com/u/luine-ito-madeira-de-ley
 
-
-
-
 ### Code Ownership, Copyright, Agreements, and Licensing 🔐
 
 - 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be shared here due to non-disclosure agreements.
@@ -43,18 +40,6 @@
 💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
 
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
-*->
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
-*->
-![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=plastic)
-*->
-![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=plastic)
-*->
-![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
-*->
-![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
-
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
  
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
  
@@ -64,18 +49,6 @@
  
 ![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
  
-![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
-
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
-->
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
-->
-![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=plastic)
-->
-![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=plastic)
-->
-![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
-->
 ![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
 
 <!--
