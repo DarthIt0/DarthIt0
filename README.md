@@ -32,8 +32,6 @@
 
 ### CODE 📜 Ownership, Copyright, Agreements & Licensing 🔐
 
-### Code 📜 Ownership, Copyright, Agreements & Licensing 🔐
-
 - 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be displayed here due to non-disclosure agreements.
 - 🤝 **Third-Party**: All external code (from companies, clients or individual contributors) is properly attributed.
 - 🌱 **Open Source**: OSS code is available and shared as-is, typically under the GPL. Modifications or usage beyond the license terms cannot be attributed to this profile.
