@@ -66,68 +66,6 @@
 ### License Badge (GPL - Yellow)
 ![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow)
 
-### 1. Custom Color (Light Blue - Hex #00BFFF)
-![Custom](https://img.shields.io/badge/Custom-Example-#00BFFF)
-
-### 2. Custom Color (Crimson - Hex #DC143C)
-![Custom](https://img.shields.io/badge/Custom-Example-#DC143C)
-
-### 3. Custom Color (Dark Green - Hex #006400)
-![Custom](https://img.shields.io/badge/Custom-Example-#006400)
-
-### 4. Custom Color (Deep Pink - Hex #FF1493)
-![Custom](https://img.shields.io/badge/Custom-Example-#FF1493)
-
-### 5. Custom Color (Goldenrod - Hex #DAA520)
-![Custom](https://img.shields.io/badge/Custom-Example-#DAA520)
-
-### 6. Custom Color (Hot Pink - Hex #FF69B4)
-![Custom](https://img.shields.io/badge/Custom-Example-#FF69B4)
-
-### 7. Custom Color (Indigo - Hex #4B0082)
-![Custom](https://img.shields.io/badge/Custom-Example-#4B0082)
-
-### 8. Custom Color (Lime - Hex #00FF00)
-![Custom](https://img.shields.io/badge/Custom-Example-#00FF00)
-
-### 9. Custom Color (Medium Orchid - Hex #BA55D3)
-![Custom](https://img.shields.io/badge/Custom-Example-#BA55D3)
-
-### 10. Custom Color (Midnight Blue - Hex #191970)
-![Custom](https://img.shields.io/badge/Custom-Example-#191970)
-
-### 11. Custom Color (Olive - Hex #808000)
-![Custom](https://img.shields.io/badge/Custom-Example-#808000)
-
-### 12. Custom Color (Orange Red - Hex #FF4500)
-![Custom](https://img.shields.io/badge/Custom-Example-#FF4500)
-
-### 13. Custom Color (Peach Puff - Hex #FFDAB9)
-![Custom](https://img.shields.io/badge/Custom-Example-#FFDAB9)
-
-### 14. Custom Color (Purple - Hex #800080)
-![Custom](https://img.shields.io/badge/Custom-Example-#800080)
-
-### 15. Custom Color (Rebecca Purple - Hex #663399)
-![Custom](https://img.shields.io/badge/Custom-Example-#663399)
-
-### 16. Custom Color (Royal Blue - Hex #4169E1)
-![Custom](https://img.shields.io/badge/Custom-Example-#4169E1)
-
-### 17. Custom Color (Salmon - Hex #FA8072)
-![Custom](https://img.shields.io/badge/Custom-Example-#FA8072)
-
-### 18. Custom Color (Sienna - Hex #A0522D)
-![Custom](https://img.shields.io/badge/Custom-Example-#A0522D)
-
-### 19. Custom Color (Steel Blue - Hex #4682B4)
-![Custom](https://img.shields.io/badge/Custom-Example-#4682B4)
-
-### 20. Custom Color (Tomato - Hex #FF6347)
-![Custom](https://img.shields.io/badge/Custom-Example-#FF6347)
-
-
-
 Flat (default style):
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat)
 Flat-Square (square style):
@@ -153,7 +91,43 @@ GitHub Stars
 Social (for GitHub stars or followers):
 ![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=social)
 
+### Example Badge with Custom Color
 
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+This project is in **<span style="color: #00BFFF;">great shape</span>** because the build is passing!
+
+### Example with Text Color Matching Badge Color
+
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+<span style="color: #00BFFF;">This text is the same color as the badge above</span>.
+
+### Example Badge and Custom Colored Text
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+<span style="color: #4169E1;">This is a custom color for the word "License" matching the badge above!</span>
+
+
+### Multiple Badge Colors for Other Words
+
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+<span style="color: #00BFFF;">This is a success message with build passing status.</span>
+
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
+<span style="color: #4169E1;">This text is in the same color as the version badge.</span>
+
+
+### Combining Badges with Text
+
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) 
+<span style="color: #00BFFF;">This build is passing and the status is good!</span>
+
+### Example with Heading & Badge
+
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+#### <span style="color: #00BFFF;">This project is in good shape and the build is passing.</span>
 
 
 <!--
