@@ -42,17 +42,29 @@
 
 💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
 
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=for-the-badge)
-->
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
-->
-![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge)
-->
-![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=for-the-badge)
-->
-![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=for-the-badge)
-->
-![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
+*->
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
+*->
+![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=plastic)
+*->
+![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=plastic)
+*->
+![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
+*->
+![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
+
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
+ 
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
+ 
+![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=plastic)
+ 
+![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=plastic)
+ 
+![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
+ 
+![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
 
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
 ->
@@ -65,18 +77,6 @@
 ![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
 ->
 ![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
-
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=flat)
-->
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat)
-->
-![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=flat)
-->
-![Dependencies](https://img.shields.io/badge/Dependencies-Up%20To%20Date-brightgreen?style=flat)
-->
-![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=flat)
-->
-![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=flat)
 
 <!--
 **DarthIt0/DarthIt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
