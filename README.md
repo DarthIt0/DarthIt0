@@ -31,6 +31,29 @@
 - https://wellfound.com/u/luine-ito-madeira-de-ley
 
 
+
+
+### Code Ownership, Copyright, Agreements, and Licensing 🔐
+
+- 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be shared here due to non-disclosure agreements.
+- 🤝 **Third-Party**: All external code (from companies, clients or individual contributors) is properly attributed.
+- 🌱 **Open Source**: OSS code is available for use as-is. Any modifications or usage beyond the specified license cannot be attributed to me.
+- 🔗 **Other**: Contributions to private version control systems (VCS), platforms, or repositories like GitLab, Bitbucket, Subversion (SVN), and Perforce are not included in this public profile.
+
+💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
+
+### Code Ownership, Copyright, Agreements, and Licensing
+
+- <span style="color: #ff6347;">**Proprietary & NDAs**:</span> Code from proprietary projects cannot be shared here due to NDAs.
+- <span style="color: #4682b4;">**Third-Party**:</span> All external code (from companies or individual contributors) is properly attributed.
+- <span style="color: #32cd32;">**Open Source**:</span> Open-source code is available for use as-is. Any modifications or usage beyond the specified license cannot be attributed to me.
+- <span style="color: #ff8c00;">**Other Platforms**:</span> Contributions on platforms like GitLab, Bitbucket, or private repositories (e.g., Subversion) are not included in this public profile.
+
+<span style="color: #808080;">*IP rights and licenses are respected in all projects. All contributions adhere to respective licensing terms.*</span>
+
+
+
+
 <!--
 **DarthIt0/DarthIt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
