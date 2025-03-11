@@ -91,43 +91,7 @@ GitHub Stars
 Social (for GitHub stars or followers):
 ![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=social)
 
-### Example Badge with Custom Color
 
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-
-This project is in **<span style="color: #00BFFF;">great shape</span>** because the build is passing!
-
-### Example with Text Color Matching Badge Color
-
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-
-<span style="color: #00BFFF;">This text is the same color as the badge above</span>.
-
-### Example Badge and Custom Colored Text
-
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-<span style="color: #4169E1;">This is a custom color for the word "License" matching the badge above!</span>
-
-
-### Multiple Badge Colors for Other Words
-
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-<span style="color: #00BFFF;">This is a success message with build passing status.</span>
-
-![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
-<span style="color: #4169E1;">This text is in the same color as the version badge.</span>
-
-
-### Combining Badges with Text
-
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) 
-<span style="color: #00BFFF;">This build is passing and the status is good!</span>
-
-### Example with Heading & Badge
-
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-#### <span style="color: #00BFFF;">This project is in good shape and the build is passing.</span>
 
 
 <!--
