@@ -28,8 +28,6 @@
 
 - https://github.com/litoai
 
-- https://wellfound.com/u/luine-ito-madeira-de-ley
-
 ### CODE 📜 Ownership, Copyright, Agreements & Licensing 🔐
 
 - 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be displayed here due to non-disclosure agreements.
