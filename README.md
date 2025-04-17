@@ -24,7 +24,7 @@
 
 - https://darthit01.gitlab.io/gamefunf5
 
-- https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_superior.pdf
+- https://www.bbts.com.br/wp-content/uploads/2024/07/2015_lista_aprovados_superior.pdf
 
 - https://github.com/litoai
 
