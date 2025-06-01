@@ -1,4 +1,4 @@
-# Luine Ito Madeira de Ley
+# Msc CS @ UIUC
 
 ## Software Engineer, Machine Learning 
 
