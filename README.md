@@ -33,10 +33,11 @@
 - 🔒 **Proprietary & NDAs**: Code from proprietary projects cannot be displayed here due to non-disclosure agreements.
 - 🤝 **Third-Party**: All external code (from companies, clients or individual contributors) is properly attributed.
 - 🌱 **Open Source**: OSS code is available and shared as-is, typically under the GPL. Modifications or usage beyond the license terms cannot be attributed to this profile.
-- 🔗 **Other**: Contributions to private version control systems (VCS), platforms or repositories like GitLab, Bitbucket, Subversion (SVN) and Perforce are not included in this public repository.
+- 🔗 **Other**: Contributions to private version control systems (VCS), platforms or repositories like GitLab, and Perforce (or other, etc...) are not included in this public repository.
 
 💡 *IP rights and licenses are respected in all projects. All contributions adhere to the respective licensing terms.*
 
+<!--
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-blue?style=plastic)
  
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=plastic)
@@ -48,6 +49,7 @@
 ![GPL License](https://img.shields.io/badge/License-GPL%20v3-yellow?style=plastic)
  
 ![GitHub Stars](https://img.shields.io/badge/Stars-5000-blue?style=plastic)
+-->
 
 <!--
 **DarthIt0/DarthIt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
