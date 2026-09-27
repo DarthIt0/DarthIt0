@@ -1,6 +1,6 @@
-# Computer Scientist, Researcher
-
 # Msc CS @ UIUC
+
+## Computer Scientist, Researcher
 
 ## Software Engineer, Machine Learning Expert
 
