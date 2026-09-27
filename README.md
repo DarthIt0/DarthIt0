@@ -1,5 +1,7 @@
 # Msc CS @ UIUC
 
+# Computer Scientist, Researcher
+
 ## Software Engineer, Machine Learning Expert
 
 ## MLOps Infrastructure Engineer 
